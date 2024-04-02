@@ -1,0 +1,104 @@
+[
+    {
+      "id": "architecture",
+      "title": "440 Penn",
+      "image": "assets/img/440Penn.jpg",
+      "description": "A detailed description of the 440 Penn project..."
+    },
+    {
+        "id": "architecture",
+        "title": "Mazza Gallery",
+        "image": "assets/img/Mazza.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Buzzard Point",
+        "image": "assets/img/BP.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "10K",
+        "image": "assets/img/10K.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Office One",
+        "image": "assets/img/Trelleborg.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Bank Building",
+        "image": "assets/img/NHC.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Ornamental Design",
+        "image": "assets/img/Omrah-OPT8.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Where Landscape meets the City",
+        "image": "assets/img/LandscapeCity.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Nala House",
+        "image": "assets/img/Nala-Housing.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "architecture",
+        "title": "Urban Maps",
+        "image": "assets/img/LandscapeFinal2-01.jpg",
+        "description": "A detailed description of the 440 Penn project..."
+      },
+      {
+        "id": "bim",
+        "title": "Complex Revit Models",
+        "image": "assets/img/revit-model.jpg",
+        "description": "A detailed description of the Dynamo Scripts project..."
+      },
+    {
+      "id": "bim",
+      "title": "Dynamo Scripts",
+      "image": "assets/img/visual programming.png",
+      "description": "A detailed description of the Dynamo Scripts project..."
+    },
+    {
+        "id": "bim",
+        "title": "Custom Complex Revit Families",
+        "image": "assets/img/BathFamily.PNG",
+        "description": "A detailed description of the Dynamo Scripts project..."
+      },
+      {
+        "id": "bim",
+        "title": "Data Management",
+        "image": "assets/img/Area to ROOM.PNG",
+        "description": "A detailed description of the Dynamo Scripts project..."
+      },
+    {
+      "id": "web-dev",
+      "title": "PictureMap of San Francisco",
+      "image": "assets/img/map-clusters.PNG",
+      "description": "Explore the city through photos: Navigate the map for a photo journey"
+    },
+    {
+        "id": "web-dev",
+        "title": "PictureMap of Neighbourhoods",
+        "image": "assets/img/map-neighbourhoods.PNG",
+        "description": "Navigate San Francisco's Diverse Neighborhoods with Our Interactive Photo Map."
+      },
+      {
+        "id": "web-dev",
+        "title": "San Francisco's Dynamic Cityscape",
+        "image": "assets/img/map-data.PNG",
+        "description": "Explore the map to witness how San Francisco's activity centers and photo locations change throughout the day."
+      }
+  ]
