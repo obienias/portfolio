@@ -75,85 +75,40 @@
                     
                     <div>
                         <h2 class="about__subtitle">I'm Olga</h2>
-                        <p class="about__text">I am a versatile and creative professional with a passion for transforming ideas into reality. My journey spans the realms of Architectural Design, Building Information Modeling (BIM), and Software Development, enabling me to offer a unique blend of technical skills and artistic vision. With a degree in Architecture and certifications in software engineering, I've dedicated myself to lifelong learning and cross-disciplinary exploration.</p>           
+                        <p class="about__text">A creative professional with a passion for transforming ideas into reality. My expertise bridges Architectural Design, Building Information Modeling (BIM), and Software Development, blending technical prowess with creative insight. With a degree in Architecture and certifications in software engineering, I've dedicated myself to lifelong learning and cross-disciplinary exploration.</p>           
                     </div>                                   
                 </div>
             </section>
 
-            <!--===== SKILLS =====-->
-            <!-- <section class="skills section" id="skills">
-                <h2 class="section-title">Skills</h2>
+              
 
-                <div class="skills__container bd-grid">          
-                    <div>
-                        <h2 class="skills__subtitle">Profesional Skills</h2>
-                        <p class="skills__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit optio id vero amet, alias architecto consectetur error eum eaque sit.</p>
-                        <div class="skills__data">
-                            <div class="skills__names">
-                                <i class='bx bxl-html5 skills__icon'></i>
-                                <span class="skills__name">Design</span>
-                            </div>
-                            <div class="skills__bar skills__html">
-
-                            </div>
-                            <div>
-                                <span class="skills__percentage">95%</span>
-                            </div>
-                        </div>
-                        <div class="skills__data">
-                            <div class="skills__names">
-                                <i class='bx bxl-css3 skills__icon'></i>
-                                <span class="skills__name">BIM</span>
-                            </div>
-                            <div class="skills__bar skills__css">
-                                
-                            </div>
-                            <div>
-                                <span class="skills__percentage">85%</span>
-                            </div>
-                        </div>
-                        <div class="skills__data">
-                            <div class="skills__names">
-                                <i class='bx bxl-javascript skills__icon' ></i>
-                                <span class="skills__name">Web Development</span>
-                            </div>
-                            <div class="skills__bar skills__js">
-                                
-                            </div>
-                            <div>
-                                <span class="skills__percentage">65%</span>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div>              
-                        <img src="assets/img/work3.jpg" alt="" class="skills__img">
-                    </div>
-                </div>
-            </section> -->
 
 <!--===== SKILLS =====-->
-<section class="work section" id="skills">
+<section class="skills section bd-container" id="skills">
     <h2 class="section-title">Skills</h2>
-    <div class="work__container bd-grid">
-        <a class="portfolio__item" data-target="architectural-design">
-            <img src="assets/img/architecture.png" alt="Architectural Design">
-            <h3 class="work__text">Architectural Design</h3>
-        </a>
-        <a class="portfolio__item" data-target="bim-project">
-            <img src="assets/img/bim.png" alt="Building Information Modeling (BIM)">
-            <h3 class="work__text">Building Information Modeling (BIM)</h3>
-        </a>
-        <a class="portfolio__item" data-target="web-development">
-            <img src="assets/img/software.png" alt="Web Development">
-            <h3 class="work__text">Web Development</h3>
-        </a>
+    <div class="skills__container  bd-grid">
+        <div class="skills__content">
+            <img src="assets/img/architecture.svg" class="skills__img" alt="Architectural Design">
+            <h3 class="skills__title">Architectural Design</h3>
+            <p class="sekills__description">Skilled in design, transforming urban landscapes through innovative mixed-use projects.</p>
+        </div>
+        <div class="skills__content">
+            <img src="assets/img/bim.svg"  class="skills__img" alt="Building Information Modeling (BIM)">
+            <h3 class="skills__title">BIM</h3>
+            <p class="sekills__description">Advanced in BIM practices, optimizing design with Revit and Dynamo, enhancing collaboration.</p>
+        </div>
+        <div class="skills__content">
+            <img src="assets/img/software.svg" class="skills__img" alt="Web Development">
+            <h3 class="skills__title">Web Development</h3>
+            <p class="sekills__description">Creative developer with expertise in Python, JavaScript, and Flask, building dynamic applications.</p>
+        </div>
     </div>
 </section>
 
+
 <!--===== WORK =====-->
 
-<h2 class="section-title">Work</h2>
+<h2 class="section-title" >Work</h2>
 <div class="work__subnav">
     <button class="work__subnav-btn" data-filter="all">All</button>
     <button class="work__subnav-btn" data-filter="architecture">Architecture</button>
@@ -161,57 +116,24 @@
     <button class="work__subnav-btn" data-filter="web-dev">Web Development</button>
 </div>
 
-<div class="work__container bd-grid" id="workContainer">
+<div class="work__container bd-grid" id="work">
     <!-- Projects will be injected here -->
   </div>
 
-                <!-- <div class="work__container bd-grid">
-                    <a class="work__img" data-category="architecture">
-                        <img src="assets/img/440Penn.jpg" alt="">
-                        <h3 class="work__text">440 Penn</h3>
-                    </a>
-                    <a href="" class="work__img" data-category="architecture">
-                        <img src="assets/img/Mazza.jpg"  alt="">
-                        <h3 class="work__text">Mazza Gallery</h3>
-                    </a>
-                    <a href="" class="work__img" data-category="architecture">
-                        <img src="assets/img/BP.jpg"  alt="">
-                        <h3 class="work__text">Buzzard Point</h3>
-                    </a>
-                        <a href="" class="work__img" data-category="bim">
-                            <img src="assets/img/Revisions.PNG"  alt="">
-                            <h3 class="work__text">Dynamo Scripts</h3>
-                        </a>
-                        <a href="" class="work__img" data-category="bim">
-                            <img src="assets/img/BathFamily.PNG"  alt="">
-                            <h3 class="work__text">Custom Complex Revit Families</h3>
-                        </a>
-                        <a href="" class="work__img" data-category="bim">
-                            <img src="assets/img/Area to ROOM.PNG"  alt="">
-                            <h3 class="work__text">Data Management</h3>
-                        </a>
-                        <a href="" class="work__img" data-category="web-dev">
-                            <img src="assets/img/web development.jpg"  alt="">
-                            <h3 class="work__text">SF Map Website</h3>
-                        </a>
-                </div> -->
 
-
-            <!-- Main Content Area where details will be displayed -->
-<div id="portfolio-details" class="portfolio-details">
-    <!-- Details will be loaded here -->
-</div>
 
             <!--===== CONTACT =====-->
+
             <section class="contact section" id="contact">
                 <h2 class="section-title">Contact</h2>
-
+            
                 <div class="contact__container bd-grid">
-                    <form action="" class="contact__form">
-                        <input type="text" placeholder="Name" class="contact__input">
-                        <input type="mail" placeholder="Email" class="contact__input">
-                        <textarea name="" id="" cols="0" rows="10" class="contact__input"></textarea>
-                        <input type="button" value="Send" class="contact__button button">
+                    <form action="https://formspree.io/f/mnqegrwq" method="POST" class="contact__form">
+                        <input type="text" name="name" placeholder="Name" class="contact__input" required>
+                        <input type="email" name="_replyto" placeholder="Email" class="contact__input" required>
+                        <textarea name="message" placeholder="Your message" cols="0" rows="10" class="contact__input" required></textarea>
+                        <!-- Change the type from "button" to "submit" -->
+                        <input type="submit" value="Send" class="contact__button button">
                     </form>
                 </div>
             </section>
@@ -221,10 +143,10 @@
         <div id="projectModal" class="modal">
             <div class="modal-content">
                 <span class="close-btn">&times;</span>
+                <h2 class="modal-title">Project Title</h2>
                 <div class="modal-body">
                     <img src="assets/img/project-image.jpg" alt="Project Image" class="modal-image">
-                    <div class="modal-text">
-                        <h2 class="modal-title">Project Title</h2>
+                    <div class="modal-text">                   
                         <p class="modal-description">Project description...</p>
                     </div>
                 </div>

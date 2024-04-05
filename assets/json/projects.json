@@ -2,103 +2,103 @@
     {
       "id": "architecture",
       "title": "440 Penn",
-      "image": "assets/img/440Penn.jpg",
-      "description": "A detailed description of the 440 Penn project..."
+      "image": "assets/img/440Penn_small.jpg",
+      "description": "Architect: ECA<br>Location: Washington, DC<br>Size: 305,230 SF Residential, 23,000 SF Retail Space<br>Number of Units: 300 Apartment Units<br>Completion: 2022<br><br>My Role: Project Architect and BIM Manager from Design Development through Construction Administration, ensuring seamless coordination.<br><br>Description: A flagship project in Union Market District blending the Maurice Electric historic façade with modern elements. Features include strategic setbacks, spacious balconies, and a double-story entrance leading to a mezzanine. The penthouse level is activated with roof and pool decks, alongside extensive lounge and game rooms designed by ECA, setting a new standard for urban living."
     },
     {
         "id": "architecture",
         "title": "Mazza Gallery",
-        "image": "assets/img/Mazza.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "image": "assets/img/Mazza_small.png",
+        "description": "Architect: ECA<br>Location: Washington, DC<br>Size: 375,000 SF Residential, 44,000 SF Retail Space<br>Number of Units: 321 Apartment Units<br>Completion: 2024<br><br>My Role: Project Architect for Design Development and early Construction Documents, focusing on façade development, detailing, and MEP coordination.<br><br>Description: The former Mazza Gallerie Shopping Mall in Washington, DC, is set for transformation into an eight-story, 321-unit residential building by ECA and Danish firm 3XN, incorporating innovative designs like curved bays for enhanced living spaces. This project repurposes the mall's underground structure for retail, promising to rejuvenate a neglected corridor and create a landmark entrance to the city."
       },
       {
         "id": "architecture",
         "title": "Buzzard Point",
-        "image": "assets/img/BP.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "image": "assets/img/BP_small.jpg",
+        "description": "Architect: ECA<br>Location: Washington, DC<br>Number of Units: 350 Apartments<br>Completion: 2024<br><br>My Role: Project architect and BIM Manager from Design Development through early Construction Documents.<br><br>Description: Building B,' a 14-story mixed-use tower, stands as a cornerstone in the Buzzard Point redevelopment. Its architecture features a three-story brick base that harmonizes with the surrounding streetscape, topped by a contemporary tower Designed with sustainability and community at its core, this project seeks to invigorate the area by blending various structures with communal facilities and parking, enriching urban living."
       },
       {
         "id": "architecture",
-        "title": "10K",
-        "image": "assets/img/10K.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "title": "10K Apartment Building",
+        "image": "assets/img/10K_small.jpg",
+        "description": "Architect: ECA<br>Location: Washington, DC<br>Size: 375,000 SF Residential, 44,000 SF Retail Space<br>Number of Units: 321 Apartment Units<br>Completion: 2024<br><br>My Role: Overseeing Revit models, including complex families and Dynamo scripts; ensuring code compliance and MEP coordination.<br><br>Description: An extension of One Hill South, 10K introduces luxury apartments and extensive amenities. Working with Morris Adjmi Architects, the design creates a C-shaped building with a courtyard, enhancing light and interior spaces. Amenities include an indoor lap pool, a rooftop pool, and a large coworking space."
       },
       {
         "id": "architecture",
         "title": "Office One",
         "image": "assets/img/Trelleborg.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "description": "Architect: Bulow AG<br>Location: Stuttgart, Germany<br>Size: 14,000 m² Office, 5,400 m² Hotel<br>Completion: 2017<br><br>My Role: Developed Revit models for the office building and hotel, focusing on approval and working drawings, and ensuring MEP coordination.<br><br>Description: A sustainable office and hotel project emphasizing energy efficiency and a pleasant environment. The \"Green Building Bülow\" concept integrates a modern workspace with a 193-room hotel, showcasing sustainable construction and aesthetic architecture."
       },
       {
         "id": "architecture",
         "title": "Bank Building",
         "image": "assets/img/NHC.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "description": "Architect: Schaller Architekten<br>Location: Riga, Latvia<br>Size: 40,000 m²<br><br>My Role: Involved in architectural drafting and 3D model development.<br><br>Description: A 16-story bank building serving as a new landmark in Riga's financial district. The project is part of a larger financial district development, strategically located near historic and transport hubs, contributing to the city's modern skyline and economic growth."
       },
       {
         "id": "architecture",
         "title": "Ornamental Design",
-        "image": "assets/img/Omrah-OPT8.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "image": "assets/img/Ornament_small.jpg",
+        "description": "Architect: Habil Architects<br><br>Description: Designing intricate architectural details for significant cultural projects, leveraging design software to realize complex geometries."
       },
       {
         "id": "architecture",
         "title": "Where Landscape meets the City",
-        "image": "assets/img/LandscapeCity.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "image": "assets/img/LandscapeCity_small.jpg",
+        "description": "Location: Oslo, Norway<br>Master’s Thesis - 2014<br><br>Description: My master's thesis investigates possible role of architecture and landscape in bridging divided urban spaces in Oslo, emphasizing cultural institutions as catalysts for social and urban integration. The project proposes extending the Munch Museum to connect with the Bjorvika district, exploring the synergy between natural landscapes, urban development, and cultural heritage. It offers a model for enhancing urban cohesion and social integration in rapidly growing cities."
       },
       {
         "id": "architecture",
         "title": "Nala House",
         "image": "assets/img/Nala-Housing.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "description": "Location: Karachi, Pakistan<br>Student Project<br><br>Description: Nala House is a housing project designed to uplift Karachi's Nala-river informal settlement. The project introduces vertical housing units that prioritize climate control, lighting, and architectural quality, challenging the norms of informal settlement upgrades. It demonstrates a commitment to enhancing living conditions through thoughtful architectural practices, providing a scalable model for urban improvement across similar settings."
       },
       {
         "id": "architecture",
         "title": "Urban Maps",
-        "image": "assets/img/LandscapeFinal2-01.jpg",
-        "description": "A detailed description of the 440 Penn project..."
+        "image": "assets/img/map-city.png",
+        "description": "<br>My fascination with maps stems from a deep interest with urban planning and city structures, leading me to produce, analyse and scrutinize various city maps. These maps, along with their detailed analyses, serve as pivotal tools for interpreting and re-envisioning urban environments, showcasing patterns of growth, infrastructure, and public spaces. This blend of analytical study and creative investigation is directed towards enhancing discussions around urban growth and architectural innovation."
       },
       {
         "id": "bim",
         "title": "Complex Revit Models",
         "image": "assets/img/revit-model.jpg",
-        "description": "A detailed description of the Dynamo Scripts project..."
+        "description": "<br>Created, managed, and optimized complex Revit models. This expertise has facilitated efficient design processes, enhanced project coordination, and improved overall project outcomes."
       },
     {
       "id": "bim",
       "title": "Dynamo Scripts",
       "image": "assets/img/visual programming.png",
-      "description": "A detailed description of the Dynamo Scripts project..."
+      "description": "<br>Developed Dynamo scripts to automate architectural design processes, focusing on data manipulation and model adjustments. This work has streamlined project workflows, reduced manual errors, and leveraged data from the model."
     },
     {
         "id": "bim",
         "title": "Custom Complex Revit Families",
         "image": "assets/img/BathFamily.PNG",
-        "description": "A detailed description of the Dynamo Scripts project..."
+        "description": "<br>Developed custom complex Revit families tailored for widespread use within the firm. My work includes creating parametric kitchen and bathroom families that enable quick, code-compliant design iterations. Additionally, I created and managed a firm Revit Components library."
       },
       {
         "id": "bim",
         "title": "Data Management",
-        "image": "assets/img/Area to ROOM.PNG",
-        "description": "A detailed description of the Dynamo Scripts project..."
+        "image": "assets/img/data-management.png",
+        "description": "<br>Leveraged BIM technology for data management, employing Dynamo and Python scripting to access, structure, and use data from the model more efficiently. It resulted in improved project documentation and enhanced communication with clients."
       },
     {
       "id": "web-dev",
       "title": "PictureMap of San Francisco",
       "image": "assets/img/map-clusters.PNG",
-      "description": "Explore the city through photos: Navigate the map for a photo journey"
+      "description": "<br>An interactive photo map offering a unique exploration of San Francisco, highlighting the city's diverse landscapes and activities.<br>Learn more at <a href='http://35.87.33.176/map'>this link</a>."
     },
     {
         "id": "web-dev",
         "title": "PictureMap of Neighbourhoods",
         "image": "assets/img/map-neighbourhoods.PNG",
-        "description": "Navigate San Francisco's Diverse Neighborhoods with Our Interactive Photo Map."
+        "description": "<br>Navigate through San Francisco's neighborhoods with an interactive photo map, showcasing the city's rich cultural and architectural diversity.<br>Learn more at <a href='http://35.87.33.176/map-neighbourhoods'>this link</a>."
       },
       {
         "id": "web-dev",
         "title": "San Francisco's Dynamic Cityscape",
         "image": "assets/img/map-data.PNG",
-        "description": "Explore the map to witness how San Francisco's activity centers and photo locations change throughout the day."
+        "description": "<br>An engaging map experience revealing the dynamic changes in San Francisco's activity centers and photographic hotspots throughout the day. <br>Learn more at <a href='http://35.87.33.176/map-data-visualization'>this link</a>."
       }
   ]
