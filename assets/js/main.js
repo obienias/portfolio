@@ -94,10 +94,12 @@ document.addEventListener('DOMContentLoaded', () => {
           projectItem.setAttribute('href', '#');
           projectItem.setAttribute('data-category', project.id);
           projectItem.innerHTML = `
-            <img src="${project.image}" alt="">
+            <img src="${project.image_icon}" alt="">
             <h3 class="work__text">${project.title}</h3>
           `;
           workContainer.appendChild(projectItem);
+
+          sr.reveal(projectItem, {interval: 200});
   
           // Event listener for each project
           projectItem.addEventListener('click', function(e) {
