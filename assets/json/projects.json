@@ -74,20 +74,20 @@
       "title": "Complex Revit Models",
       "image": "assets/img/revit-model.jpg",
       "image_icon": "assets/img/revit-model.jpg",
-      "description": "<br>Created, managed, and optimized complex Revit models. This expertise has facilitated efficient design processes, enhanced project coordination, and improved overall project outcomes."
+      "description": "<br>Created, managed, and optimized complex Revit models. It facilitated efficient design processes, enhanced project coordination, and improved overall project outcomes. Most of the "
   },
   {
       "id": "bim",
       "title": "Dynamo Scripts",
       "image": "assets/img/visual programming.png",
       "image_icon": "assets/img/visual programming.png",
-      "description": "<br>Developed Dynamo scripts to automate architectural design processes, focusing on data manipulation and model adjustments. This work has streamlined project workflows, reduced manual errors, and leveraged data from the model."
+      "description": "<br>Developed Dynamo scripts to automate architectural design processes, focusing on data manipulation and model adjustments. This work has streamlined project workflows, reduced manual errors, and leveraged data from the model. Examples of Dynamo scripts developed include: <br> <ul><li>matching data between elements and rooms (while being in separate Revit models)</li> <li>managing naming conventions,</li> <li>model maintenance,</li> <li>various numbering and re-numbering scripts,</li> <li>sheets creation,</li> <li>managing set revisions, </li><li>syncing data between room and areas.</li></ul>"
   },
   {
       "id": "bim",
       "title": "Custom Complex Revit Families",
-      "image": "assets/img/BathFamily.PNG",
-      "image_icon": "assets/img/BathFamily.PNG",
+      "image": "assets/img/bathFamily.png",
+      "image_icon": "assets/img/bathFamily.png",
       "description": "<br>Developed custom complex Revit families tailored for widespread use within the firm. My work includes creating parametric kitchen and bathroom families that enable quick, code-compliant design iterations. Additionally, I created and managed a firm Revit Components library."
   },
   {

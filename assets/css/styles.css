@@ -60,6 +60,12 @@ ul {
   list-style: none;
 }
 
+.modal ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-left: 0; 
+}
+
 a {
   text-decoration: none;
 }
@@ -218,6 +224,7 @@ img {
 }
 .home__blob-img {
   width: 420px;
+  filter: grayscale(100%);
 }
 
 /*BUTTONS*/
@@ -244,9 +251,13 @@ img {
 }
 .about__img {
   justify-self: center;
+  /* filter: grayscale(100%); */
+
 }
 .about__img img {
   width: 200px;
+  height: 320px;
+  object-fit: cover;
   border-radius: 0.5rem;
 }
 
@@ -282,60 +293,7 @@ img {
   padding: 0 1.5rem;
 }
 
-/* .skills__container {
-  row-gap: 2rem;
-  text-align: center;
-}
-.skills__subtitle {
-  margin-bottom: var(--mb-2);
-}
-.skills__text {
-  margin-bottom: var(--mb-4);
-}
-.skills__data {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: relative;
-  font-weight: var(--font-semi);
-  padding: 0.5rem 1rem;
-  margin-bottom: var(--mb-4);
-  border-radius: 0.5rem;
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
-}
-.skills__icon {
-  font-size: 2rem;
-  margin-right: var(--mb-2);
-  color: var(--first-color);
-}
-.skills__names {
-  display: flex;
-  align-items: center;
-}
-.skills__bar {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  background-color: var(--first-color);
-  height: 0.25rem;
-  border-radius: 0.5rem;
-  z-index: var(--z-back);
-}
-.skills__html {
-  width: 95%;
-}
-.skills__css {
-  width: 85%;
-}
-.skills__js {
-  width: 65%;
-}
-.skills__ux {
-  width: 85%;
-}
-.skills__img {
-  border-radius: 0.5rem;
-} */
+
 
 /* ===== WORK =====*/
 .work__container {
@@ -496,14 +454,14 @@ img {
 .modal {
   display: none;
   position: fixed;
-  z-index: 10; /* Increased z-index to ensure it's above other content */
+  z-index: 10; 
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto; /* Allows scrolling on small screens */
-  background-color: rgba(0, 0, 0, 0.6); /* Slightly darker for better contrast */
-  padding: 40px 0; /* Reduced top padding for better use of space */
+  overflow: auto; 
+  background-color: rgba(0, 0, 0, 0.6); 
+  padding: 40px 0; 
   
 }
 
@@ -529,8 +487,8 @@ img {
   display: flex;
   align-items: center;
   flex-direction: column;
-  display: block;
-  padding: 20px;
+  /* display: block; */
+  padding: 30px;
 }
 
 .modal-content {
@@ -542,11 +500,11 @@ img {
   padding-left: 30px;
   padding-bottom: 30px;
   border: 1px solid #888;
-  width: 90%; /* Slightly wider by default for better use of space */
+  width: 90%; 
   max-width: 1200px;
-  max-height: 90%; /* Cap max width to ensure content remains legible */
+  max-height: 90%; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  overflow-y: auto; /* Ensures all content fits within the modal */
+  overflow-y: auto; 
   border-radius: 0.5rem;
 }
 
@@ -555,12 +513,16 @@ img {
 
 .modal-image {
   width: 100%; /* Full width on small screens */
-  max-height: 400px; /* Limit height to ensure visibility */
+  max-height: 500px; /* Limit height to ensure visibility */
   object-fit: cover; /* Ensure image covers the area nicely without stretching */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem
 }
 
 .modal-text {
-  margin-top: 20px; /* Ensure space between text and any preceding content */
+  margin-top: 30px; 
+
+  align-items: center;
 }
 
 .modal-title,
@@ -569,16 +531,16 @@ img {
 }
 
 .modal-title {
-  font-size: var(--h2-font-size); /* Use variable for consistency */
-  color: var(--first-color); /* Highlight the title */
-  margin-top: 20px; /* Ensure it doesn't touch the close button */
-  text-align: left; /* Center the title for better aesthetics */
-  width: 100%; /* Ensure the title spans the width of the modal */
-  padding: 0 30px;
+  font-size: var(--h2-font-size);
+  margin-top: 2rem; 
+  text-align: left; 
+  width: 100%; 
+  padding: 0 35px;
+  color: var(--first-color)
 }
 
 .modal-description {
-  font-size: 18px; /* Slightly larger font for readability */
+  font-size: var(--normal-font-size)
 }
 
 @media screen and (max-width: 998px) {
@@ -596,18 +558,18 @@ img {
   .modal-body {
     display: flex;
     flex-direction: row; 
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-around;
   }
 
   .modal-image {
-    width: 50%;
+    width: 60%;
     max-height: unset; 
   }
 
   .modal-text {
-    width: 45%;
-    padding-left: 20px;
+    width: 40%;
+    padding-left: 30px;
     margin-top: 0; 
   }
 }
@@ -615,23 +577,11 @@ img {
 
 
 
-/* .work__subnav-btn {
-  display: inline-block;
-  background-color: var(--first-color);
-  color: #fff;
-  padding: 0.75rem 2.5rem;
-  font-weight: var(--font-semi);
-  border-radius: 0.5rem;
-  transition: 0.3s;
-}
-.button:hover {
-  box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
-} */
 .work__subnav {
   display: flex;
-  justify-content: center; /* Center align the buttons */
-  gap: 15px; /* Adds space between buttons */
-  padding: 1rem 0; /* Adds vertical padding */
+  justify-content: center; 
+  gap: 15px; 
+  padding: 1rem 0; 
 
 }
 
