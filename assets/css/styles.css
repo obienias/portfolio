@@ -223,8 +223,9 @@ img {
   fill: var(--first-color);
 }
 .home__blob-img {
-  width: 420px;
+  width: 360px;
   filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
 }
 
 /*BUTTONS*/
