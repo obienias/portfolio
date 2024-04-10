@@ -16,7 +16,7 @@
   {
       "id": "architecture",
       "title": "Buzzard Point",
-      "image": "assets/img/BPjpg",
+      "image": "assets/img/BP.jpg",
       "image_icon": "assets/img/BP_small.jpg",
       "description": "Architect: ECA<br>Location: Washington, DC<br>Number of Units: 350 Apartments<br>Completion: 2024<br><br>My Role: Project architect and BIM Manager from Design Development through early Construction Documents.<br><br>Description: Building B,' a 14-story mixed-use tower, stands as a cornerstone in the Buzzard Point redevelopment. Its architecture features a three-story brick base that harmonizes with the surrounding streetscape, topped by a contemporary tower Designed with sustainability and community at its core, this project seeks to invigorate the area by blending various structures with communal facilities and parking, enriching urban living."
   },
@@ -74,28 +74,28 @@
       "title": "Complex Revit Models",
       "image": "assets/img/revit-model.jpg",
       "image_icon": "assets/img/revit-model.jpg",
-      "description": "<br>Created, managed, and optimized complex Revit models. It facilitated efficient design processes, enhanced project coordination, and improved overall project outcomes. Most of the "
+      "description": "<br>Developing and managing detailed, data-rich 3D models that facilitate seamless collaboration and management across diverse project stakeholders.<ul>    <li>Model Foundation: establishing model setups, creating model templates that serve as the groundwork for future projects.</li>    <li>Quality Control: performing quality assurance checks and audits of BIM models and data. Conducting detailed reviews to detect and resolve any discrepancies, clashes, or conflicts, ensuring the integrity of the models.</li>    <li>Standardization and Compliance: Ensuring that team members adhere to established standards, promoting consistency and quality across the board.</li>    <li>Collaborative Coordination: Lead regular BIM coordination meetings and model reviews, enhancing stakeholder collaboration and ensuring all parties are aligned in their objectives and methodologies.</li>    <li>Integration and Support: Supporting integration of architectural designs with structural and MEP disciplines, facilitating a cohesive and unified project structure.</li>    <li>Documentation Efficiency: Supporting streamlined documentation processes, thereby improving project delivery timelines.</li></ul>  "
   },
   {
       "id": "bim",
       "title": "Dynamo Scripts",
       "image": "assets/img/visual programming.png",
       "image_icon": "assets/img/visual programming.png",
-      "description": "<br>Developed Dynamo scripts to automate architectural design processes, focusing on data manipulation and model adjustments. This work has streamlined project workflows, reduced manual errors, and leveraged data from the model. Examples of Dynamo scripts developed include: <br> <ul><li>matching data between elements and rooms (while being in separate Revit models)</li> <li>managing naming conventions,</li> <li>model maintenance,</li> <li>various numbering and re-numbering scripts,</li> <li>sheets creation,</li> <li>managing set revisions, </li><li>syncing data between room and areas.</li></ul>"
+      "description": "<br>Developed Dynamo scripts to automate architectural design processes, focusing on data manipulation and model adjustments. This work has streamlined project workflows, reduced manual errors, and leveraged data from the model. Examples of Dynamo scripts developed include: <br> <ul><li>Matching data between elements and rooms (while being in separate Revit models)</li> <li>Managing naming conventions,</li> <li>Model maintenance,</li> <li>Various numbering and re-numbering scripts,</li> <li>Sheets creation,</li> <li>Managing set revisions, </li><li>Syncing data between room and areas.</li></ul>"
   },
   {
       "id": "bim",
       "title": "Custom Complex Revit Families",
       "image": "assets/img/bathFamily.png",
       "image_icon": "assets/img/bathFamily.png",
-      "description": "<br>Developed custom complex Revit families tailored for widespread use within the firm. My work includes creating parametric kitchen and bathroom families that enable quick, code-compliant design iterations. Additionally, I created and managed a firm Revit Components library."
+      "description": "<br><ul>    <li>Proficiency in Complex Revit Families: Demonstrated expertise in creating custom, sophisticated Revit families.</li>    <li>Revit Library Development: Established, maintained, and continuously updated a comprehensive library of custom Revit components, incorporating a wide range of family templates to meet diverse project requirements.</li>    <li> Revit Standards and Knowledge Repositor : Initiated and curated a well-organized collection of essential documentation, labeled for straightforward access, to share best practices with colleagues.</li>    <li> Intelligent Dependencies: Utilized advanced formulas within components to facilitate smart dependencies, ensuring consistency across family parameters for efficient project scheduling and data utilization.</li>    <li> Strategic Nesting: Applied nesting techniques judiciously to simplify the upkeep of complex family structures, achieving an optimal balance between detailed modeling for precise coordination and model performance.</li>    <li> Parametric Kitchen and Bathroom Families: Developed parametric families for kitchens and bathrooms, enabling quick, compliant design iterations and exemplifying a commitment to streamlining design efficiency.</li>    <li> Performance Optimization: Ensured all components were fine-tuned for peak performance within models, focusing on adaptability and efficient data storage, while maintaining sufficient modeling detail for effective coordination without compromising the model's integrity.</li></ul>"
   },
   {
       "id": "bim",
       "title": "Data Management",
       "image": "assets/img/data-management.png",
       "image_icon": "assets/img/data-management.png",
-      "description": "<br>Leveraged BIM technology for data management, employing Dynamo and Python scripting to access, structure, and use data from the model more efficiently. It resulted in improved project documentation and enhanced communication with clients."
+      "description": "<br>Leveraged BIM technology to enhance data management, utilizing Dynamo and Python scripting for improved data access, organization, and efficiency.<ul>    <li>Comprehensive Data Management: Managed a wide range of BIM data and information, covering model elements, parameters, properties, and attributes, ensuring comprehensive oversight.</li>    <li>Data Integrity Assurance: Maintained data integrity, consistency, and quality across all BIM models and related documentation, upholding high standards of accuracy.</li>    <li>Data Integration: Coordination of data exchange and integration between other disciplines.</li></ul>"
   },
   {
       "id": "web-dev",
