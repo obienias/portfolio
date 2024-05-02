@@ -168,6 +168,8 @@ img {
   cursor: pointer;
 }
 
+
+
 /*Active menu*/
 .active-link::after {
   position: absolute;
@@ -240,6 +242,25 @@ img {
 }
 .button:hover {
   box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
+}
+
+.nav__btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  font-size: 24px;
+  color: var(--first-color);
+}
+
+.left__nav {
+  left: 10px;
+}
+
+.right__nav {
+  right: 10px;
 }
 
 /* ===== ABOUT =====*/
