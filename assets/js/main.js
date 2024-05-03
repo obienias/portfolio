@@ -111,45 +111,46 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             currentIndex = index;
             modalTitle.textContent = project.title;
-            // modalImage.src = project.image;
+    
             modalImage.src = project.image[0];
             modalImage.alt = project.title;
             modalDescription.innerHTML = project.description;
             modal.style.display = 'flex';
             imageIndex = 0;
-            console.log(currentIndex)
+            // console.log(currentIndex)
           });
         });
 
         function updateModal() {
             console.log("test");
             modalImage.src = projectsData[currentIndex].image[imageIndex];
-            const newSrc = projectsData[currentIndex].image[imageIndex] + '?v=' + new Date().getTime();
-    // modalImage.src = newSrc;
-    console.log("Updated image src to: ", newSrc); 
+    //         const newSrc = projectsData[currentIndex].image[imageIndex] + '?v=' + new Date().getTime();
+
+    // console.log("Updated image src to: ", newSrc); 
 }
         
 
-        leftNav.addEventListener('click', () => {
-            if (imageIndex > 0) {
-                imageIndex--;  // Move to the previous image
-                console.log(imageIndex);
-                updateModal();
-                
-            }
-        });
+leftNav.addEventListener('click', () => {
+    if (imageIndex > 0) {
+        imageIndex--;  
+    } else {
+        imageIndex = projectsData[currentIndex].image.length - 1; 
+    }
+    // console.log(imageIndex);
+    updateModal();
+});
 
-        rightNav.addEventListener('click', () => {
-            if (imageIndex < projectsData[currentIndex].image.length - 1) {
-                imageIndex++;  // Move to the next image
-                console.log(imageIndex);
-                updateModal();
-            }
-                
-                
-        });
+rightNav.addEventListener('click', () => {
+    if (imageIndex < projectsData[currentIndex].image.length - 1) {
+        imageIndex++;  
+    } else {
+        imageIndex = 0; 
+    }
+    // console.log(imageIndex);
+    updateModal();
+});
   
-        // Close modal action
+        // Close modal 
         closeModalButton.addEventListener('click', () => {
           modal.style.display = 'none';
         });
