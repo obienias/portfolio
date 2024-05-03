@@ -2,119 +2,119 @@
   {
       "id": "architecture",
       "title": "440 Penn",
-      "image": ["assets/img/440Penn.jpg", "assets/img/440Penn_streetView.jpg" ],
+      "image": ["assets/img/440Penn.jpg", "assets/img/440_Iso.PNG","assets/img/440Penn_streetView.jpg","assets/img/440_Exterior.jpg","assets/img/440_Roof.jpg","assets/img/440_Interior.jpg" ],
       "image_icon": "assets/img/440Penn_small.jpg",
       "description": "Architect: ECA<br>Location: Washington, DC<br>Size: 305,230 SF Residential, 23,000 SF Retail Space<br>Number of Units: 300 Apartment Units<br>Completion: 2022<br><br>My Role: Project Architect and BIM Manager from Design Development through Construction Administration, ensuring seamless coordination.<br><br>Description: A flagship project in Union Market District blending the Maurice Electric historic façade with modern elements. Features include strategic setbacks, spacious balconies, and a double-story entrance leading to a mezzanine. The penthouse level is activated with roof and pool decks, alongside extensive lounge and game rooms designed by ECA, setting a new standard for urban living."
   },
   {
       "id": "architecture",
       "title": "Mazza Gallery",
-      "image": ["assets/img/Mazza.jpg"],
+      "image": ["assets/img/Mazza.jpg","assets/img/Mazza_Gallerie.jpg","assets/img/Mazza_Iso.PNG","assets/img/Mazza_Dtl.PNG"],
       "image_icon": "assets/img/Mazza_small.png",
       "description": "Architect: ECA<br>Location: Washington, DC<br>Size: 375,000 SF Residential, 44,000 SF Retail Space<br>Number of Units: 321 Apartment Units<br>Completion: 2024<br><br>My Role: Project Architect for Design Development and early Construction Documents, focusing on façade development, detailing, and MEP coordination.<br><br>Description: The former Mazza Gallerie Shopping Mall in Washington, DC, is set for transformation into an eight-story, 321-unit residential building by ECA and Danish firm 3XN, incorporating innovative designs like curved bays for enhanced living spaces. This project repurposes the mall's underground structure for retail, promising to rejuvenate a neglected corridor and create a landmark entrance to the city."
   },
   {
       "id": "architecture",
       "title": "Buzzard Point",
-      "image": ["assets/img/BP.jpg"],
+      "image": ["assets/img/BP.jpg", "assets/img/revit-model.jpg", "assets/img/BP_balcony-soffit.jpg"],
       "image_icon": "assets/img/BP_small.jpg",
       "description": "Architect: ECA<br>Location: Washington, DC<br>Number of Units: 350 Apartments<br>Completion: 2024<br><br>My Role: Project architect and BIM Manager from Design Development through early Construction Documents.<br><br>Description: Building B,' a 14-story mixed-use tower, stands as a cornerstone in the Buzzard Point redevelopment. Its architecture features a three-story brick base that harmonizes with the surrounding streetscape, topped by a contemporary tower Designed with sustainability and community at its core, this project seeks to invigorate the area by blending various structures with communal facilities and parking, enriching urban living."
   },
   {
       "id": "architecture",
       "title": "10K Apartment Building",
-      "image": ["assets/img/10K.jpg"],
+      "image": ["assets/img/10K.jpg","assets/img/10k_Iso.PNG","assets/img/10K_Streetview.jpg"],
       "image_icon": "assets/img/10K_small.jpg",
       "description": "Architect: ECA<br>Location: Washington, DC<br>Size: 375,000 SF Residential, 44,000 SF Retail Space<br>Number of Units: 321 Apartment Units<br>Completion: 2024<br><br>My Role: Overseeing Revit models, including complex families and Dynamo scripts; ensuring code compliance and MEP coordination.<br><br>Description: An extension of One Hill South, 10K introduces luxury apartments and extensive amenities. Working with Morris Adjmi Architects, the design creates a C-shaped building with a courtyard, enhancing light and interior spaces. Amenities include an indoor lap pool, a rooftop pool, and a large coworking space."
   },
   {
       "id": "architecture",
       "title": "Office One",
-      "image": ["assets/img/Trelleborg.jpg"],
+      "image": ["assets/img/Trelleborg.jpg","assets/img/Trelleborg2.jpg"],
       "image_icon": "assets/img/Trelleborg.jpg",
       "description": "Architect: Bulow AG<br>Location: Stuttgart, Germany<br>Size: 14,000 m² Office, 5,400 m² Hotel<br>Completion: 2017<br><br>My Role: Developed Revit models for the office building and hotel, focusing on approval and working drawings, and ensuring MEP coordination.<br><br>Description: A sustainable office and hotel project emphasizing energy efficiency and a pleasant environment. The \"Green Building Bülow\" concept integrates a modern workspace with a 193-room hotel, showcasing sustainable construction and aesthetic architecture."
   },
   {
       "id": "architecture",
       "title": "Bank Building",
-      "image": ["assets/img/NHC.jpg"],
+      "image": ["assets/img/NHC.jpg","assets/img/NHC_night.jpg"],
       "image_icon": "assets/img/NHC.jpg",
       "description": "Architect: Schaller Architekten<br>Location: Riga, Latvia<br>Size: 40,000 m²<br><br>My Role: Involved in architectural drafting and 3D model development.<br><br>Description: A 16-story bank building serving as a new landmark in Riga's financial district. The project is part of a larger financial district development, strategically located near historic and transport hubs, contributing to the city's modern skyline and economic growth."
   },
   {
       "id": "architecture",
       "title": "Ornamental Design",
-      "image": ["assets/img/Ornament.jpg"],
+      "image": ["assets/img/Ornament.jpg", "assets/img/Ornament2.jpg"],
       "image_icon": "assets/img/Ornament_small.jpg",
       "description": "Architect: Habil Architects<br><br>Description: Designing intricate architectural details for significant cultural projects, leveraging design software to realize complex geometries."
   },
   {
       "id": "architecture",
       "title": "Where Landscape meets the City",
-      "image": ["assets/img/LandscapeCity.jpg"],
+      "image": ["assets/img/LandscapeCity.jpg", "assets/img/map_LandscapeFinal2-01.jpg"],
       "image_icon": "assets/img/LandscapeCity_small.jpg",
       "description": "Location: Oslo, Norway<br>Master’s Thesis - 2014<br><br>Description: My master's thesis investigates possible role of architecture and landscape in bridging divided urban spaces in Oslo, emphasizing cultural institutions as catalysts for social and urban integration. The project proposes extending the Munch Museum to connect with the Bjorvika district, exploring the synergy between natural landscapes, urban development, and cultural heritage. It offers a model for enhancing urban cohesion and social integration in rapidly growing cities."
   },
   {
       "id": "architecture",
       "title": "Nala House",
-      "image": ["assets/img/Nala-Housing.jpg"],
+      "image": ["assets/img/Nala-Housing.jpg","assets/img/Nala-Housing_court.jpg","assets/img/Nala-Housing_section.jpg"],
       "image_icon": "assets/img/Nala-Housing.jpg",
       "description": "Location: Karachi, Pakistan<br>Student Project<br><br>Description: Nala House is a housing project designed to uplift Karachi's Nala-river informal settlement. The project introduces vertical housing units that prioritize climate control, lighting, and architectural quality, challenging the norms of informal settlement upgrades. It demonstrates a commitment to enhancing living conditions through thoughtful architectural practices, providing a scalable model for urban improvement across similar settings."
   },
   {
       "id": "architecture",
       "title": "Urban Maps",
-      "image": ["assets/img/map-city.png"],
+      "image": ["assets/img/map-city.png","assets/img/map_ws.jpg","assets/img/map_mentalMap03-01-01.jpg","assets/img/map_LandscapeFinal2-01.jpg","assets/img/map_culturalPlacesForStartegyRelocation-01.jpg", "assets/img/map_BirdView.jpg"],
       "image_icon": "assets/img/map-city.png",
       "description": "<br>My fascination with maps stems from a deep interest with urban planning and city structures, leading me to produce, analyse and scrutinize various city maps. These maps, along with their detailed analyses, serve as pivotal tools for interpreting and re-envisioning urban environments, showcasing patterns of growth, infrastructure, and public spaces. This blend of analytical study and creative investigation is directed towards enhancing discussions around urban growth and architectural innovation."
   },
   {
       "id": "bim",
       "title": "Complex Revit Models",
-      "image": ["assets/img/revit-model.jpg"],
+      "image": ["assets/img/revit-model.jpg","assets/img/Mazza_Iso.PNG","assets/img/440_Iso.PNG","assets/img/10k_Iso.PNG"],
       "image_icon": "assets/img/revit-model.jpg",
       "description": "<br>Developing and managing detailed, data-rich 3D models that facilitate seamless collaboration and management across diverse project stakeholders.<ul>    <li>Model Foundation: establishing model setups, creating model templates that serve as the groundwork for future projects.</li>    <li>Quality Control: performing quality assurance checks and audits of BIM models and data. Conducting detailed reviews to detect and resolve any discrepancies, clashes, or conflicts, ensuring the integrity of the models.</li>    <li>Standardization and Compliance: Ensuring that team members adhere to established standards, promoting consistency and quality across the board.</li>    <li>Collaborative Coordination: Lead regular BIM coordination meetings and model reviews, enhancing stakeholder collaboration and ensuring all parties are aligned in their objectives and methodologies.</li>    <li>Integration and Support: Supporting integration of architectural designs with structural and MEP disciplines, facilitating a cohesive and unified project structure.</li>    <li>Documentation Efficiency: Supporting streamlined documentation processes, thereby improving project delivery timelines.</li></ul>  "
   },
   {
       "id": "bim",
       "title": "Dynamo Scripts",
-      "image": ["assets/img/visual programming.png"],
+      "image": ["assets/img/visual programming.png", "assets/img/dynamo_AreaRoom.png"],
       "image_icon": "assets/img/visual programming.png",
       "description": "<br>Developed Dynamo scripts to automate architectural design processes, focusing on data manipulation and model adjustments. This work has streamlined project workflows, reduced manual errors, and leveraged data from the model. Examples of Dynamo scripts developed include: <br> <ul><li>Matching data between elements and rooms (while being in separate Revit models)</li> <li>Managing naming conventions,</li> <li>Model maintenance,</li> <li>Various numbering and re-numbering scripts,</li> <li>Sheets creation,</li> <li>Managing set revisions, </li><li>Syncing data between room and areas.</li></ul>"
   },
   {
       "id": "bim",
       "title": "Custom Complex Revit Families",
-      "image": ["assets/img/bathFamily.png"],
-      "image_icon": "assets/img/bathFamily.png",
+      "image": ["assets/img/family_Bath.png","assets/img/family_ShowcaseDoor.png","assets/img/family_wallShowcase.png"],
+      "image_icon": "assets/img/family_Bath.png",
       "description": "<br><ul>    <li>Proficiency in Complex Revit Families: Demonstrated expertise in creating custom, sophisticated Revit families.</li>    <li>Revit Library Development: Established, maintained, and continuously updated a comprehensive library of custom Revit components, incorporating a wide range of family templates to meet diverse project requirements.</li>    <li> Revit Standards and Knowledge Repositor : Initiated and curated a well-organized collection of essential documentation, labeled for straightforward access, to share best practices with colleagues.</li>    <li> Intelligent Dependencies: Utilized advanced formulas within components to facilitate smart dependencies, ensuring consistency across family parameters for efficient project scheduling and data utilization.</li>    <li> Strategic Nesting: Applied nesting techniques judiciously to simplify the upkeep of complex family structures, achieving an optimal balance between detailed modeling for precise coordination and model performance.</li>    <li> Parametric Kitchen and Bathroom Families: Developed parametric families for kitchens and bathrooms, enabling quick, compliant design iterations and exemplifying a commitment to streamlining design efficiency.</li>    <li> Performance Optimization: Ensured all components were fine-tuned for peak performance within models, focusing on adaptability and efficient data storage, while maintaining sufficient modeling detail for effective coordination without compromising the model's integrity.</li></ul>"
   },
   {
       "id": "bim",
       "title": "Data Management",
-      "image": ["assets/img/data-management.png"],
+      "image": ["assets/img/data-management.png","assets/img/Data_schedule.PNG","assets/img/Data_schedule-interior.PNG","assets/img/Data_schedule-door.PNG"],
       "image_icon": "assets/img/data-management.png",
       "description": "<br>Leveraged BIM technology to enhance data management, utilizing Dynamo and Python scripting for improved data access, organization, and efficiency.<ul>    <li>Comprehensive Data Management: Managed a wide range of BIM data and information, covering model elements, parameters, properties, and attributes, ensuring comprehensive oversight.</li>    <li>Data Integrity Assurance: Maintained data integrity, consistency, and quality across all BIM models and related documentation, upholding high standards of accuracy.</li>    <li>Data Integration: Coordination of data exchange and integration between other disciplines.</li></ul>"
   },
   {
       "id": "web-dev",
       "title": "PictureMap of San Francisco",
-      "image": ["assets/img/map-clusters.PNG"],
+      "image": ["assets/img/map-clusters.PNG","assets/img/map-clusters2.PNG"],
       "image_icon": "assets/img/map-clusters.PNG",
       "description": "<br>An interactive photo map offering a unique exploration of San Francisco, highlighting the city's diverse landscapes and activities.<br>Learn more at <a href='http://35.87.33.176/map'>this link</a>."
   },
   {
       "id": "web-dev",
       "title": "PictureMap of Neighbourhoods",
-      "image": "assets/img/map-neighbourhoods.PNG",
+      "image": ["assets/img/map-neighbourhoods.PNG","assets/img/map-neighbourhoods2.PNG"],
       "image_icon": "assets/img/map-neighbourhoods.PNG",
       "description": "<br>Navigate through San Francisco's neighborhoods with an interactive photo map, showcasing the city's rich cultural and architectural diversity.<br>Learn more at <a href='http://35.87.33.176/map-neighbourhoods'>this link</a>."
   },
   {
       "id": "web-dev",
       "title": "San Francisco's Dynamic Cityscape",
-      "image": ["assets/img/map-data.PNG"],
+      "image": ["assets/img/map-data.PNG","assets/img/map-data2.PNG"],
       "image_icon": "assets/img/map-data.PNG",
       "description": "<br>An engaging map experience revealing the dynamic changes in San Francisco's activity centers and photographic hotspots throughout the day. <br>Learn more at <a href='http://35.87.33.176/map-data-visualization'>this link</a>."
   }

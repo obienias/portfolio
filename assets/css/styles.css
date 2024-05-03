@@ -584,7 +584,7 @@ img {
 
   .modal-image {
     width: 60%;
-    max-height: unset; 
+    max-height: 450px; 
   }
 
   .modal-text {
